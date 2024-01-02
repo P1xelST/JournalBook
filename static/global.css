@@ -1,0 +1,17 @@
+body { 
+    font-family: 'Open Sans', sans-serif;
+    /* background-color: #1c1b21; */
+    background-color: var(--white);
+    font-size: 40px;
+    color: var(--black);
+}
+:root {
+    /* color: white; */
+    --black: #121212;
+    --white: #b8b8b8;
+}
+
+#root {
+    max-width: 800px;
+    margin: 0 auto;
+}
